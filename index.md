@@ -12,15 +12,24 @@
 
 Specialties: 
 
-✔ Algorithm and Data structure. 
+✔ Algorithm and Data structure.
+
 ✔ Object-oriented analysis & design (OOAD).
+
 ✔ Designing and Architectural patterns. 
+
 ✔ Cloud computing (GAE, AWS and Azure).
+
 ✔ Big data and NoSQL (Riak, Cassandra and Cosmos).
+
 ✔ SOA, Web Services (REST).
+
 ✔ Message-Oriented Middleware (RabbitMQ, JMS)
+
 ✔ Linux and Shell Scripting.
+
 ✔ Agile methodologies - Scrum and Test Driven Development
+
 
 ### Markdown
 
