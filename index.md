@@ -10,6 +10,18 @@
 
 •2011-2012 : Freelancer - Helping students building their professional career by mentoring them.
 
+Specialties: 
+
+✔ Algorithm and Data structure. 
+✔ Object-oriented analysis & design (OOAD).
+✔ Designing and Architectural patterns. 
+✔ Cloud computing (GAE, AWS and Azure).
+✔ Big data and NoSQL (Riak, Cassandra and Cosmos).
+✔ SOA, Web Services (REST).
+✔ Message-Oriented Middleware (RabbitMQ, JMS)
+✔ Linux and Shell Scripting.
+✔ Agile methodologies - Scrum and Test Driven Development
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
