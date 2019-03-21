@@ -1,8 +1,14 @@
 ## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/lambodar/lambodar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+```You can use the [editor on GitHub](https://github.com/lambodar/lambodar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.```
+
+•2014-Present: Symantec - Helping people, businesses and govt. by protecting their information.
+
+•2012-2014 : FULL Creative - Developed software which helps business to connect their customer.
+
+•2011-2012 : Freelancer - Helping students building their professional career by mentoring them.
 
 ### Markdown
 
